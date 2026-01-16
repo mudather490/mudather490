@@ -1,4 +1,4 @@
-# Hi, I'm [Mudather kbyer] 👋  
+# Hi, I'm Mudather kbyer 👋  
 ### Machine Learning | Deep Learning | Cybersecurity Enthusiast
 
 I am a motivated and self-driven learner with a strong foundation in **Machine Learning, Deep Learning, and Cybersecurity**.  
